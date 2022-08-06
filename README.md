@@ -33,13 +33,13 @@
     <li>
       <a href="#coding">Coding</a>
       <ul>
-        <li><a href="#step1">Step 1 - Importations and initializations</a></li>
+        <li><a href="#Step 1 - Importations and initializations"> Step 1 - Importations and initializations</a></li>
       </ul>
       <ul>
-        <li><a href="#step2">Image Capturing and Processing </a></li>
+        <li><a href="#step2"> Step 2 - Image Capturing and Processing  </a></li>
       </ul>
       <ul>
-        <li><a href="#step3">Step 3 - Working with Each Hand</a></li>
+        <li><a href="#step3"> Step 3 - Working with Each Hand</a></li>
       </ul>
     </li>
   </ol>
