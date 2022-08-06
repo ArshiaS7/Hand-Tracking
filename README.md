@@ -33,7 +33,7 @@
     <li>
       <a href="#coding">Coding</a>
       <ul>
-        <li><a href="#Importations-and-initializations">Importations and initializations</a></li>
+        <li><a href="#Step-1---Importations-and-initializations">Step 1 - Importations and initializations</a></li>
       </ul>
       <ul>
         <li><a href="#step2"> Step 2 - Image Capturing and Processing  </a></li>
@@ -93,7 +93,7 @@ The 21 hand points that MediaPipe identifies are shown in the image below:
 </div>
 
 ## Coding
-### Importations and initializations
+### Step 1 - Importations and initializations
 
 <div align = "justify">
 
