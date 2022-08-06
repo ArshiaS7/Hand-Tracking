@@ -9,7 +9,7 @@
     Hand-Tracking Project with Python: Using OpenCV &amp; MediaPipe
     <br />
     <br />
-    <a href=""><strong>Explore the docs »</strong></a>
+    <a href="#"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
