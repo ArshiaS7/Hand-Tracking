@@ -33,7 +33,7 @@
     <li>
       <a href="#coding">Coding</a>
       <ul>
-        <li><a href="#Step 1 - Importations and initializations"> Step 1 - Importations and initializations</a></li>
+        <li><a href="#Step-1-Importations-and-initializations"> Step 1 - Importations and initializations</a></li>
       </ul>
       <ul>
         <li><a href="#step2"> Step 2 - Image Capturing and Processing  </a></li>
