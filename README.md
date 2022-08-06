@@ -93,7 +93,7 @@ The 21 hand points that MediaPipe identifies are shown in the image below:
 </div>
 
 ## Coding
-### Step 1 - Importations and initializations
+### Importations and initializations
 
 <div align = "justify">
 
